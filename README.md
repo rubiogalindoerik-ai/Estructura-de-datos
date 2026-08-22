@@ -3,4 +3,7 @@
 ### Contenido del repositorio
 - Semana 1
     - Actividad 1
-    - actividad de clase
+    - Actividad de clase
+- Semana 2
+    - Actividdad 2
+    - Actividad de clase
