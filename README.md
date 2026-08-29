@@ -7,3 +7,6 @@
 - Semana 2
     - Actividdad 2
     - Actividad de clase
+- Semana 3
+    - Avance de proyecto final
+    - Actvidad de clases
