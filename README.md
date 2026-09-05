@@ -9,4 +9,7 @@
     - Actividad de clase
 - Semana 3
     - Avance de proyecto final
-    - Actvidad de clases
+    - Actividad de clase
+- Semana 4 
+    - Actividad 3
+    - Actividad de clase
