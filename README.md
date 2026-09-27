@@ -4,15 +4,38 @@
 - Semana 1
     - Actividad 1
     - Actividad de clase
+        - Actividad 0 Nodos
+        - Actividad 1 Listas
 - Semana 2
     - Actividdad 2
     - Actividad de clase
+        - Actividad 2 Pilas
+        - Actividad 3 Pilas, Historial, Navegacion
+        - Actividad 4 Queue
+        - Actividad 5 Menu, Pilas, Colas
 - Semana 3
     - Avance de proyecto final
     - Actividad de clase
+        - Actividad 6 Cola de prioridades
+        - Actividad 7 Tablas Hash
+        - Actividad 8 Reto (Cola, Hash, Pila)
+        - Actividad 9 Primer mundo grafico
 - Semana 4 
     - Actividad 3
     - Actividad de clase
+        - Actividad extra Pila con interfaz
+        - Actividad 10 Recursividad
+        - Actividad 11 Recursividad
 - Semana 5
     - Actividad 4
     - Actividad de clase
+        - Actividad 12 Recursividad con interfaz
+        - Actividad 13 Arboles
+        - Actividad 14 Arboles binarios
+- Semana 6
+    - Certificado
+- Semana 7
+    - Proyecto final
+    - Actividad de clase
+        - Actividad 17 Metodos de ordenamiento con interfaz
+        - Actividad 19 Grafos
